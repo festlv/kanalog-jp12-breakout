@@ -1,0 +1,25 @@
+Drill report for kanalog-jp12-breakout.kicad_pcb
+Created on Wed May 31 02:11:29 2023
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'kanalog-jp12-breakout.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (161 holes)
+    T2  1.000mm  0.0394"  (52 holes)
+    T3  1.200mm  0.0472"  (26 holes)
+
+    Total plated holes count 239
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T4  3.500mm  0.1378"  (4 holes)
+
+    Total unplated holes count 4
